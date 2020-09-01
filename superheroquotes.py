@@ -241,5 +241,3 @@ def quote() :
 
 		elif val == 74 :
 			print("When you look in her eyes and she’s looking back in yours…everything…feels…not quite normal. - Peter Parker")	
-
-quote()
