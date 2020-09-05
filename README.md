@@ -1,3 +1,5 @@
+___
+
 ### A module with love :heart:, for superhero enthusiasts.
 
 
@@ -22,4 +24,5 @@ Additionaly, Linux users can give the command shown below, **after installing lo
 > python3 prg1.py | lolcat
 
 to print the quotes in rainbow colors
+
 ___
