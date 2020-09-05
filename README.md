@@ -7,6 +7,18 @@
 > To download the module, go on terminal and type
 ```bash
 'pip3 install heroquotes' 
-or
+         or
 'pip install heroquotes'
 ```
+
+###Write a program prg1.py(say) as shown below
+```python
+import heroquotes
+heroquotes.quote()
+``` 
+> And when you run prg1.py, a quote from marvel or dc, comics/movies will be printed at random
+
+Additionaly, Linux / OS X users can give this command, **after installing lolcat**
+> python3 prg1.py | lolcat
+to print the quotes in rainbow colors
+___
