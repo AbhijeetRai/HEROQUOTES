@@ -18,7 +18,8 @@ heroquotes.quote()
 ``` 
 > And when you run prg1.py, a quote from marvel or dc, comics/movies will be printed at random
 
-Additionaly, Linux / OS X users can give this command, **after installing lolcat**
+Additionaly, Linux / OS X users can give the command shown below, **after installing lolcat**
 > python3 prg1.py | lolcat
+
 to print the quotes in rainbow colors
 ___
